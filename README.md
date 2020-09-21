@@ -24,7 +24,7 @@
 
 **KindleEar**: Forked from [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar). I use KindleEar to grab news from RSS sources and the latest manga/novel chapters. Automatically pushing is an awesome idea for Kindle as I am not a greedy book reader recently due to the heavy life. Without the push service, I would simply search and read everything without a kindle. I did some customization to KindleEar for better reading experience in my Kindle 4. Later I traded in the old Kindle 4 and purchased a Kindle paperwhite, which has LED background lights and a higher resolution (for mangas), making life a lot easier. 
 
-**sms-backup-plus**: Forked from [jberkel/sms-backup-plus](https://github.com/jberkel/sms-backup-plus). The main goal of the original program was to _ backup_ while what I wanted at that time was to _sync_ incoming calls and texts as emails so that I can leave one of my cellphones at home but still got instant notifications...
+**sms-backup-plus**: Forked from [jberkel/sms-backup-plus](https://github.com/jberkel/sms-backup-plus). The main goal of the original program was to _backup_ while what I wanted at that time was to _sync_ incoming calls and texts as emails so that I can leave one of my cellphones at home but still get instant notifications...
 
 
 
