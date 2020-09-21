@@ -1,6 +1,11 @@
+# Think, write
+https://cover-me.github.io/
+
+# Code
+
 Good code saves people's time, bad code drains people's time, Majorana code does both.
 
-# Repos for work :wrench:
+## Repos for work :wrench:
 
 **instrDAQ**: A LabVIEW program for transport measurements. Support 1D scans and a sequence of 1D scans. A 1D scan has the form `scan(channel, stop_value, minimum_time_interval=0, step=0)`. The parameter `step` is ignored if ramping a continuous channel, i.e. the magnetic field or the time.
 
@@ -18,7 +23,7 @@ Good code saves people's time, bad code drains people's time, Majorana code does
 
 **repository/klayout/** Useful scripts for Klayout and EBL pattern design.
 
-# Repos for fun :beer:
+## Repos for fun :beer:
 
 **2DEG**: A webpage calculator for some physics.
 
@@ -32,7 +37,7 @@ Good code saves people's time, bad code drains people's time, Majorana code does
 
 
 
-# More :moyai:
+## More :moyai:
 
 There are always more!
 
