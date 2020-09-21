@@ -22,6 +22,8 @@
 
 **2DEG**: A webpage calculator for some physics.
 
+**cover-me.github.io**: Create a website for fun and then post something for more fun. Hmmm... :confused: 
+
 **matplotlib**: The vector image formats are no good enough for science! PDF is not treated as figures on a webpage while SVG may look different in different programs (PDF is better but still suffers from the same problem, see my post [here](https://cover-me.github.io/2019/02/17/Save-2d-data-as-a-figure.html)). There come problems when one uses Jupyter Notebook, Inkscape, and matplotlib. [Here](https://github.com/matplotlib/matplotlib/pull/17062) is my PR regarding one of the problems. Other problems are doing Gouraud shading in SVG files and more (another [post](https://cover-me.github.io/2020/04/18/Save-2D-data-as-a-figure-III.html)).  Those would require an update from big vendors such as Firefox and may take years.
 
 **KindleEar**: Forked from [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar). I use KindleEar to grab news from RSS sources and the latest manga/novel chapters. Automatically pushing is an awesome idea for Kindle as I am not a greedy book reader recently due to the heavy life. Without the push service, I would simply search and read everything without a kindle. I did some customization to KindleEar for better reading experience in my Kindle 4. Later I traded in the old Kindle 4 and purchased a Kindle paperwhite, which has LED background lights and a higher resolution (for mangas), making life a lot easier. 
