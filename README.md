@@ -1,3 +1,5 @@
+## Good code saves people's time, bad code drains people's time, Majorana code is both.
+
 # Repos for work :wrench:
 
 **instrDAQ**: A LabVIEW program for transport measurements. Support 1D scans and a sequence of 1D scans. A 1D scan has the form `scan(channel, stop_value, minimum_time_interval=0, step=0)`. The parameter `step` is ignored if ramping a continuous channel, i.e. the magnetic field or the time.
@@ -30,5 +32,5 @@
 
 # More :moyai:
 
-There are always more.
+There are always more!
 
