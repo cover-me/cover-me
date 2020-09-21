@@ -37,7 +37,7 @@ Good code saves people's time, bad code drains people's time, Majorana code does
 
 
 
-## More :moyai:
+## More repos :moyai:
 
 There are always more!
 
