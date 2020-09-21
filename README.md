@@ -10,9 +10,9 @@
 
 **qtplotter**: Try to fit [Rubenknex/qtplot](https://github.com/Rubenknex/qtplot) into Jupyter Notebook and Python 3. It drops the feature of realtime visualization while gets benifits on publication quality and efficiency. I guess I need to study the license before pushing this project too far away.
 
-**FP-monitor**: Monitor readings on Leiden fridge's LabVIEW executable. Send alarms through either email or Slack. Controls to read, rules for alarming, emails/Slack channels can be modified in .ini files.
+**FP-monitor**: Monitor readings on Leiden fridge's LabVIEW executable. Send notifications through either email or Slack. Controls for reading, events, email list/Slack channels can be modified in .ini files.
 
-**repository/OI/dr200 alarmer.bat**: Work with dr200 alarmer.py. Similar to FP-monitor, the script monitors the status of an Oxford fridge by reading the log file periodically and send alerts to Slack channels.
+**repository/OI/dr200 alarmer.bat**: Work together with dr200 alarmer.py. Similar to FP-monitor, the script monitors the status of an Oxford fridge by reading the log file periodically and send notifications to Slack channels.
 
 **tcp-visa-server**: A virtual instrument server receiving messages from VISA Write and responses to VISA Read. It is used as a wrapper to integrate things without VISA support, i.e. instruments with DLL drivers or readings from a program, to measurement programs such as InstrDAQ or even qtlab. Check **Leiden/1.0_190721_LV17** for reading Leiden fridge's temperatures. There is also a version for the PPMS field and temperature, but I don't have time to find and upload it yet.
 
