@@ -1,4 +1,4 @@
-## Good code saves people's time, bad code drains people's time, Majorana code does both.
+Good code saves people's time, bad code drains people's time, Majorana code does both.
 
 # Repos for work :wrench:
 
