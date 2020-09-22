@@ -19,6 +19,8 @@ Good code saves people's time, bad code drains people's time, Majorana code does
 
 **repository/OI/dr200 alarmer.bat**: Work together with dr200 alarmer.py. Similar to FP-monitor, the script monitors the status of an Oxford fridge by reading the log file periodically and send notifications to Slack channels.
 
+**repository/Leiden/fridge data plotter/L plotter.ipynb**: You need a program to visualize Leiden fridge sensor data for troubleshooting! Edit the start time, the end time, names of values to plot, and there you go. 
+
 **tcp-visa-server**: A virtual instrument server receiving messages from VISA Write and responses to VISA Read. It is used as a wrapper to integrate things without VISA support, i.e. instruments with DLL drivers or readings from a program, to measurement programs such as InstrDAQ or even qtlab. Check **Leiden/1.0_190721_LV17** for reading Leiden fridge's temperatures. There is also a version for the PPMS field and temperature, but I don't have time to find and upload it yet.
 
 **repository/klayout/** Useful scripts for Klayout and EBL pattern design.
