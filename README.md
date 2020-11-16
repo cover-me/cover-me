@@ -23,7 +23,7 @@ Good code saves people's time, bad code drains people's time, Majorana code does
 
 **tcp-visa-server**: A virtual instrument server receiving messages from VISA Write and responses to VISA Read. It is used as a wrapper to integrate things without VISA support, i.e. instruments with DLL drivers or readings from a program, to measurement programs such as InstrDAQ or even qtlab. Check **Leiden/1.0_190721_LV17** for reading Leiden fridge's temperatures. There is also a version for the PPMS field and temperature, but I don't have time to find and upload it yet.
 
-**repository/klayout/** Useful scripts for Klayout and EBL pattern design.
+**repository/klayout/** Useful scripts for Klayout and EBL pattern design. Designing layouts for quantum devices is time-consuming, isn't it? There are techniques such as auto-routing but I am too busy to learn and use it... Luckily, some big companies are in the game and (or will) bring us tools such as [Qcodes](https://github.com/QCoDeS/Qcodes) or [Qiskit Metal](https://qiskit.org/metal/).
 
 ## Repos for fun :beer:
 
