@@ -25,7 +25,7 @@ My website: https://cover-me.github.io/
 
 ## Repos beyond work :beer:
 
-**2DEG**: A webpage calculator for some physics.
+**2DEG**: A webpage calculator for some physics. https://cover-me.github.io/2DEG/
 
 **cover-me.github.io**: My website hosted on GitHub.
 
