@@ -27,7 +27,7 @@ My website: https://cover-me.github.io/
 
 **2DEG**: A webpage calculator for some physics. https://cover-me.github.io/2DEG/
 
-**cover-me.github.io**: My website hosted on GitHub.
+**[cover-me.github.io](https://github.com/cover-me/cover-me.github.io)**: My website hosted on GitHub.
 
 **matplotlib**: The vector image formats are no good enough for science! PDF is not treated as figures on a webpage while SVG may look different in different programs (PDF is better but still suffers from the same problem, see my post [here](https://cover-me.github.io/2019/02/17/Save-2d-data-as-a-figure.html)). There come problems when one uses Jupyter Notebook, Inkscape, and matplotlib. [Here](https://github.com/matplotlib/matplotlib/pull/17062) is my PR regarding one of the problems. Other problems are doing Gouraud shading in SVG files and more (another [post](https://cover-me.github.io/2020/04/18/Save-2D-data-as-a-figure-III.html)).  Those would require an update from big vendors such as Firefox and may take years.
 
