@@ -1,6 +1,14 @@
 # Think, write
 My website: https://cover-me.github.io/
 
+qtlab + qtplot + MS word + Notepad++ = 1d or 2d scans + realtime visualization + automatic logging
+
+Python + JupyterLab + Inkscape + Overleaf = paper
+
+Fridge + Watchdog, Klayout + Scripts, Life + Hacks...
+
+
+
 # Code
 
 ## Repos for work :wrench: 
