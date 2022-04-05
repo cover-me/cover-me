@@ -5,7 +5,7 @@ qtlab + qtplot + MS Word + Notepad++ = 1d or 2d scans + realtime visualization +
 
 Python + JupyterLab + Inkscape + Overleaf = paper
 
-Fridge + Watchdog, Klayout + Scripts, Life + Hacks...
+Fridge watchdogs, Klayout scripts, life hacks, sleep in chairs...
 
 
 
