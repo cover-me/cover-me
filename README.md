@@ -3,7 +3,7 @@ My website: https://cover-me.github.io/
 
 qtlab + qtplot + MS Word + Notepad++ = 1d or 2d scans + realtime visualization + automatic logging
 
-Python + JupyterLab + Inkscape + Overleaf = paper
+Python + JupyterLab + Inkscape/Blender + Overleaf = paper
 
 Fridge watchdogs, Klayout scripts, life hacks, sleep in chairs...
 
