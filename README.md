@@ -1,11 +1,19 @@
-# Think, write
-My website: https://cover-me.github.io/
+
+# Research
+
+[Google Scholar](https://scholar.google.com/citations?user=DwbjlDAAAAAJ)
+
+ORCID: [0000-0001-7847-9478](https://orcid.org/0000-0001-7847-9478)
+
+# Workflow
 
 qtlab + qtplot + MS Word + Notepad++ = 1d or 2d scans + realtime visualization + automatic logging
 
 Python + JupyterLab + Inkscape/Blender + Overleaf = paper
 
 Fridge watchdogs, Klayout scripts, life hacks, sleep in chairs...
+
+Website: https://cover-me.github.io/
 
 
 
