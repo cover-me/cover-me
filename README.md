@@ -5,6 +5,8 @@
 
 ORCID: [0000-0001-7847-9478](https://orcid.org/0000-0001-7847-9478)
 
+![Braiding of Anyons, by Midjourney](https://user-images.githubusercontent.com/22870592/230771266-78caa634-10ae-4f19-b044-9681536bc1a0.png "Braiding of Anyons, by Midjourney")
+
 # Workflow
 
 qtlab + qtplot + MS Word + Notepad++ = 1d or 2d scans + realtime visualization + automatic logging
