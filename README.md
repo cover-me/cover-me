@@ -7,21 +7,13 @@ ORCID: [0000-0001-7847-9478](https://orcid.org/0000-0001-7847-9478)
 
 ![Braiding of Anyons, by Midjourney](https://user-images.githubusercontent.com/22870592/230771266-78caa634-10ae-4f19-b044-9681536bc1a0.png "Braiding of Anyons, by Midjourney")
 
-# Workflow
-
-qtlab + qtplot + MS Word + Notepad++ = 1d or 2d scans + realtime visualization + automatic logging
-
-Python + JupyterLab + Inkscape/Blender + Overleaf = paper
-
-Fridge watchdogs, Klayout scripts, life hacks, sleep in chairs...
-
-Website: https://cover-me.github.io/
-
-
 
 # Code
 
 ## Repos for work :wrench: 
+
+![image](https://github.com/cover-me/cover-me/assets/22870592/fc094827-2dbe-40ec-8e38-99c88efa3414)
+
 
 **[instrDAQ](https://github.com/cover-me/instrDAQ)**: A LabVIEW program for transport measurements. Support 1D scans and a sequence of 1D scans. A 1D scan has the form `scan(channel, stop_value, minimum_time_interval=0, step=0)`. The parameter `step` is ignored if ramping a continuous channel, i.e. the magnetic field or the time. Mostly used for 1D scans.
 
